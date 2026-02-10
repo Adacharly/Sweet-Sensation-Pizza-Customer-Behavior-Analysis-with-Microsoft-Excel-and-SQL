@@ -1,0 +1,2 @@
+# Sweet-Sensation-Pizza-Customer-Behavior-Analysis-with-Microsoft-Excel-and-SQL
+An end-to-end analytics project demonstrating business-driven thinking: raw data was converted into decision-ready insights through disciplined SQL workflows and an executive-friendly Excel dashboard. The analysis revealed peak days and times, top and bottom sellers, and sales by category and size in an interactive quarterly view.
