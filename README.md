@@ -3,7 +3,8 @@ Sweet Sensation Pizza is a quick-service pizza business focused on delivering hi
 
 ---
 
-![Sweet Sensation Pizza Dashboard](Sweet_Sensation_Dashboard.png)
+<img width="1209" height="550" alt="Sweet Sensation Dashboard" src="https://github.com/user-attachments/assets/980b924f-6b3f-4a9a-a063-ce60f48be39f" />
+
 
 ## 📌 Table of Contents
 - [Business Introduction](#business-introduction)
